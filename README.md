@@ -37,3 +37,7 @@ python manage.py runserver
 Depois é só acessar:
 - http://127.0.0.1:8000/ → listagem de filmes (CRUD)
 - http://127.0.0.1:8000/admin/ → Django Admin
+
+
+
+Feito pelos alunos Gustavo Peres Pereira e Gabriel Di Lorenzo Correa, do 6° Periodo de Sistemas de Informação da FEPI.
